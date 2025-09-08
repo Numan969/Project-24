@@ -27,10 +27,11 @@ export const login = async (req, res, next) => {
       httpOnly: false,
       expires: new Date(Date.now() + 8 * 60 * 60 * 1000),
       secure: false, // Add this line
-    })
+    })                                                                                                                       
     res.status(200)
     .json({ ...otherDetails });
-  
+    
+    console.log("Users......." ,req.body);
   } catch (error) {
     next(error);
   }

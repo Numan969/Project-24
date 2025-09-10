@@ -46,7 +46,7 @@ const AboutUs = () => {
                             <div className="max-w-screen-lg mx-auto text-center md:text-left md:mr-8"> {/* Added md:mr-8 for margin */}
                                 <h3 className="text-xl md:text-2xl font-semibold text-gray dark:text-white">Message from the HOD</h3>
                                 <p className="mt-4 text-lg text-gray dark:text-white">
-                                At the institute, we aim to uphold the vision of the department, striving for excellence in teaching, research, services, and innovation. Our institute offers an undergraduate program in Computer Science (BS-CS), which is a skill-oriented degree alongside several other programs. Our students are renowned for their strong theoretical foundation in computing, programming, and related disciplines. Equipping them with the latest technologies and providing exposure to real-world challenges remains our core strategy.
+                                At the institute, we aim to uphold the vision of the department, striving for excellence in teaching, research, services, and innovation. Our institute offers an undergraduate program in Computer Science (BS-CS), which is a skill-oriented degree alongside several other programs. Our students are renowned for their strong theoretical foundation in computing, programming, and related disciplines. Equipping them with the latest technologies and providing exposure to real-world challenges remains our core strategy.This is a test github action .
 
 
 
